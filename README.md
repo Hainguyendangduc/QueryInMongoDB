@@ -1,4 +1,4 @@
->>>>>>>>>>>>>>>>>>>>>>>>Truy vấn dữ liệu trong MongoDB
+             Truy vấn dữ liệu trong MongoDB
 
 Để thực hiện dự án ta cần: 
 1. Cài đặt MongoDB, MongoDB Shell / MongoDB Compass
